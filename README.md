@@ -1,4 +1,4 @@
-# quickie
+# GK news app
 
 A new Flutter project.
 
